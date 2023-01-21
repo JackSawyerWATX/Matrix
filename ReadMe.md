@@ -18,3 +18,5 @@ Efficient Java Matrix Library (EJML) is a linear algebra library for manipulatin
 These goals are accomplished by dynamically selecting the best algorithms to use at runtime, clean API, and multiple interfaces.
 
 https://en.wikipedia.org/wiki/Efficient_Java_Matrix_Library#Introduction
+
+This is bad code. Needs to be reworked as of 1/21/2023
